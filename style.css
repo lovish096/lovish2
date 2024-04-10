@@ -1,0 +1,24 @@
+.sign { list-style: none; display: Inline; padding-inline: 30px; }
+a:link { text-decoration: none; color:darkolivegreen;}
+a:visited { text-decoration: none; color:darkolivegreen;}
+section { text-align: center; font-size: 40px;}
+.photo { display:flex; font-size: 20px; padding-top: 20px; padding-left: 15%; padding-right: 15%; }
+img { height: 400px;}
+.tim { padding-left: 100px;}
+h1 { padding-top: 20px;}
+h2 { font-size: 30px;}
+span { color: gray;}
+dl { padding-top: 40px;}
+dt { padding-top: 20px; font-size: 30px;}
+dd { font-size: 20px;}
+h3 {font-size:  15px;}
+article { display: flex;}
+.wrapper {
+    width: 700px;
+    margin: 0 auto;
+}
+
+
+h4 {
+font-size: 2pc; color: blue; padding-top: 20px;  padding-bottom: 15px;}
+
